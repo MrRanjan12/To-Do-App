@@ -80,9 +80,6 @@ ul {
   display: none;
 }
 .todo-item span {
-  /* flex: 1;
-  margin-left: 10px;
-  word-break: break-word; */
   white-space: nowrap;         /* Prevent text from wrapping */
         overflow: hidden;            /* Hide overflowed text */
         text-overflow: ellipsis;     /* Show ellipsis (...) when text is too long */
